@@ -37,19 +37,19 @@
 * Implement GAMMA CORRECTION
 
 ## Source image:
-![](https://github.com/gabrpavel/term-2/blob/main/sources/dune.bmp?raw=true)
+![](term2/sources/dune.bmp)
 
 ## Negative image:
-![](https://github.com/gabrpavel/term-2/blob/main/sources/negative.bmp?raw=true)
+![](term2/sources/negative.bmp)
 
 ## Black and white image:
-![](https://github.com/gabrpavel/term-2/blob/main/sources/black_and_white.bmp?raw=true)
+![](term2/sources/black_and_white.bmp)
 
 ## Median filtering (kernel = 3) image:
-![](https://github.com/gabrpavel/term-2/blob/main/sources/median_filter.bmp?raw=true)
+![](term2/sources/median_filter.bmp)
 
 ## Gamma correction (gamma = 1.5) image:
-![](https://github.com/gabrpavel/term-2/blob/main/sources/gamma_correction.bmp?raw=true)
+![](term2/sources/gamma_correction.bmp)
 
 
 [CODE](https://github.com/gabrpavel/term-2/tree/main/labs/lab3/image_editor)
