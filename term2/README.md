@@ -25,9 +25,9 @@
 4.	Replacing all words A and B with each other.
 5.	Repeat items 2-4 as long as it makes sense.
 
-**[CODE COMPRESSOR](https://github.com/gabrpavel/term-2/tree/main/labs/lab2/compressor)** 
+**[CODE COMPRESSOR](term2/labs/lab2/compressor)** 
 
-**[CODE DECOMPRESSOR](https://github.com/gabrpavel/term-2/tree/main/labs/lab2/decompressor)**
+**[CODE DECOMPRESSOR](term2/labs/lab2/decompressor)**
 
 ## lab 3 (BMP-image editor)
 ### Task: write a program that implements a simple image processing.
@@ -52,7 +52,7 @@
 ![](https://github.com/gabrpavel/BSUIR/raw/main/term2/sources/gamma_correction.bmp)
 
 
-[CODE](labs/lab3/image_editor)
+[CODE](term2/labs/lab3/image_editor)
 
 ## lab 4 (Akinator)
 ### Task: write a program analogous to Akinator.
@@ -70,7 +70,7 @@ Additional task: add a reverse akinator to the functionality. The program guesse
 
 [DATABASE](sources/database.txt)
 
-[CODE](https://github.com/gabrpavel/term-2/tree/main/labs/lab4/akinator)
+[CODE](term2/labs/lab4/akinator)
 
 ## lab 5 (hash table)
 ### Task: write a search program with a cache.
