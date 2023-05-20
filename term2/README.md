@@ -70,7 +70,7 @@ Additional task: add a reverse akinator to the functionality. The program guesse
 
 [DATABASE](sources/database.txt)
 
-[CODE](term2/labs/lab4/akinator)
+[CODE](labs/lab4/akinator)
 
 ## lab 5 (hash table)
 ### Task: write a search program with a cache.
