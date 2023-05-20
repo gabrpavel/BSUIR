@@ -15,7 +15,7 @@
 - Implement array sorting functions for each field of the structure. (For example, you can sort students first by date of birth, then change your mind and sort by average score).
 - Implement a menu to test the functionality.
 
-**[CODE](term2/labs/lab1)**
+**[CODE](labs/lab1)**
 
 ## lab 2 (compressor/decompressor)
 ### Task: write a program that implements a simple text compression algorithm:
@@ -25,9 +25,9 @@
 4.	Replacing all words A and B with each other.
 5.	Repeat items 2-4 as long as it makes sense.
 
-**[CODE COMPRESSOR](term2/labs/lab2/compressor)** 
+**[CODE COMPRESSOR](labs/lab2/compressor)** 
 
-**[CODE DECOMPRESSOR](term2/labs/lab2/decompressor)**
+**[CODE DECOMPRESSOR](labs/lab2/decompressor)**
 
 ## lab 3 (BMP-image editor)
 ### Task: write a program that implements a simple image processing.
@@ -52,7 +52,7 @@
 ![](https://github.com/gabrpavel/BSUIR/raw/main/term2/sources/gamma_correction.bmp)
 
 
-[CODE](term2/labs/lab3/image_editor)
+[CODE](labs/lab3/image_editor)
 
 ## lab 4 (Akinator)
 ### Task: write a program analogous to Akinator.
