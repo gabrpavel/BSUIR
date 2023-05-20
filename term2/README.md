@@ -37,16 +37,16 @@
 * Implement GAMMA CORRECTION
 
 ## Source image:
-![](term2/sources/dune.bmp)
+![](https://github.com/gabrpavel/BSUIR/raw/main/term2/sources/dune.bmp)
 
 ## Negative image:
-![](term2/sources/negative.bmp)
+![](https://github.com/gabrpavel/BSUIR/raw/main/term2/sources/negative.bmp)
 
 ## Black and white image:
-![](term2/sources/black_and_white.bmp)
+![](https://github.com/gabrpavel/BSUIR/raw/main/term2/sources/black_and_white.bmp)
 
 ## Median filtering (kernel = 3) image:
-![](term2/sources/median_filter.bmp)
+![](https://github.com/gabrpavel/BSUIR/raw/main/term2/sources/median_filter.bmp)
 
 ## Gamma correction (gamma = 1.5) image:
 ![](https://github.com/gabrpavel/BSUIR/raw/main/term2/sources/gamma_correction.bmp)
