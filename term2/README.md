@@ -1,9 +1,9 @@
 # LABs
 1. **[lab 1 (structures)](https://github.com/gabrpavel/BSUIR/tree/main/term2#lab-1-structures)**
-2. **[lab 2 (compressor/decompressor)](https://github.com/gabrpavel/term-2#lab-2-compressordecompressor)**
-3. **[lab 3 (BMP-image editor)](https://github.com/gabrpavel/term-2#lab-3-bmp-image-editor)**
-4. **[lab 4 (Akinator)](https://github.com/gabrpavel/term-2/blob/main/README.md#lab-4-akinator)**
-5. **[lab 5 (hash table)](https://github.com/gabrpavel/term-2/blob/main/README.md#lab-5-hash-table)**
+2. **[lab 2 (compressor/decompressor)](https://github.com/gabrpavel/BSUIR/tree/main/term2#lab-2-compressordecompressor)**
+3. **[lab 3 (BMP-image editor)](https://github.com/gabrpavel/BSUIR/tree/main/term2#lab-3-bmp-image-editor)**
+4. **[lab 4 (Akinator)](https://github.com/gabrpavel/BSUIR/tree/main/term2#lab-4-akinator)**
+5. **[lab 5 (hash table)](https://github.com/gabrpavel/BSUIR/tree/main/term2#lab-5-hash-table)**
 
 ![](sources/SonarCloud.png)
 
