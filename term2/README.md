@@ -52,7 +52,7 @@
 ![](https://github.com/gabrpavel/BSUIR/raw/main/term2/sources/gamma_correction.bmp)
 
 
-[CODE](https://github.com/gabrpavel/term-2/tree/main/labs/lab3/image_editor)
+[CODE](labs/lab3/image_editor)
 
 ## lab 4 (Akinator)
 ### Task: write a program analogous to Akinator.
