@@ -1,0 +1,95 @@
+Gender of your person is female?
+Is she alive?
+She is an actress?
+Is she over 30 year old?
+Is she a mother of dragons?
+Emilia Clarke
+#
+#
+Scarlett Johanson
+#
+#
+Florence Pugh
+#
+#
+Is she a singer?
+Is she over 30 year old?
+Taylor Swift
+#
+#
+Olivia Rodrigo
+#
+#
+Margaret Thatcher
+#
+#
+Elizabeth 2
+#
+#
+Is he alive?
+Is he an actor?
+Is he over 30 years old?
+Did he play the role of Venom?
+Tom Hardy
+#
+#
+Leonardo Dicaprio
+#
+#
+Did he play the role of spider-man and did he met with Zendaya?
+Tom Holand
+#
+#
+Timothee Chalamet
+#
+#
+Is he a singer?
+Is he over 30 years old?
+Is he in a music band Twenty one Pilots?
+Tyler Joseph
+#
+#
+Is he a redhead?
+Ed Sheeran
+#
+#
+Is he from France?
+Stromae
+#
+#
+Hozier
+#
+#
+He was a member of the One Direction?
+Does he have Grammy?
+Harry Styles
+#
+#
+Niall Horan
+#
+#
+Did he met with Camila Cabello?
+Shawn Mendes
+#
+#
+Damiano David
+#
+#
+Is he a director?
+Does he have Oscar?
+Was the Pulp Fiction written and directed by him?
+Quentin Tarantino
+#
+#
+James Cameron
+#
+#
+Guy Ritche
+#
+#
+Elon Musk
+#
+#
+Albert Einstein
+#
+#
