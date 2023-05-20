@@ -49,7 +49,7 @@
 ![](term2/sources/median_filter.bmp)
 
 ## Gamma correction (gamma = 1.5) image:
-![](term2/sources/gamma_correction.bmp)
+![](https://github.com/gabrpavel/BSUIR/raw/main/term2/sources/gamma_correction.bmp)
 
 
 [CODE](https://github.com/gabrpavel/term-2/tree/main/labs/lab3/image_editor)
