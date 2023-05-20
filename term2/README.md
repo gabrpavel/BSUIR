@@ -15,7 +15,7 @@
 - Implement array sorting functions for each field of the structure. (For example, you can sort students first by date of birth, then change your mind and sort by average score).
 - Implement a menu to test the functionality.
 
-**[CODE](https://github.com/gabrpavel/term-2/tree/main/labs/lab1)**
+**[CODE](term2/labs/lab1)**
 
 ## lab 2 (compressor/decompressor)
 ### Task: write a program that implements a simple text compression algorithm:
