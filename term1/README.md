@@ -1,12 +1,12 @@
 # Basics of Algorithmization and Programming labs 
-1. **[lab 1 (C program structure, I/O functions)]()**
-2. **[lab 2 (Loop operators)]()**
-3. **[lab 3 (One-dimensional arrays)]()**
-4. **[lab 4 (Multidimensional arrays)]()**
-5. **[lab 5 (Dynamic memory allocation)]()**
-6. **[lab 6 (Sorting)]()**
-7. **[lab 7 (String handling)]()**
-8. **[lab 8 (String handling)]()**
+1. **[lab 1 (C program structure, I/O functions)](https://github.com/gabrpavel/BSUIR/tree/main/term1#lab-1-c-program-structure-io-functions)**
+2. **[lab 2 (Loop operators)](https://github.com/gabrpavel/BSUIR/tree/main/term1#lab-2-loop-operators)**
+3. **[lab 3 (One-dimensional arrays)](https://github.com/gabrpavel/BSUIR/tree/main/term1#lab-3-one-dimensional-arrays)**
+4. **[lab 4 (Multidimensional arrays)](https://github.com/gabrpavel/BSUIR/tree/main/term1#lab-4-multidimensional-arrays)**
+5. **[lab 5 (Dynamic memory allocation)](https://github.com/gabrpavel/BSUIR/tree/main/term1#lab-5-dynamic-memory-allocation)**
+6. **[lab 6 (Sorting)](https://github.com/gabrpavel/BSUIR/tree/main/term1#lab-6-sorting)**
+7. **[lab 7 (String handling)](https://github.com/gabrpavel/BSUIR/tree/main/term1#lab-7-string-handling)**
+8. **[lab 8 (String handling)](https://github.com/gabrpavel/BSUIR/tree/main/term1#lab-8-string-handling)**
 
 ## lab 1 (C program structure, I/O functions)
 ### Tasks:
