@@ -1,2 +1,2 @@
 # Template class
-![](ClassDiagram1.png)
+![](ClassDiagram.png)
