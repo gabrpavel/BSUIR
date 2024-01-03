@@ -1,4 +1,4 @@
-# LABs
+# Basics of Algorithmization and Programming labs 
 1. **[lab 1 (structures)](https://github.com/gabrpavel/BSUIR/tree/main/term2#lab-1-structures)**
 2. **[lab 2 (compressor/decompressor)](https://github.com/gabrpavel/BSUIR/tree/main/term2#lab-2-compressordecompressor)**
 3. **[lab 3 (BMP-image editor)](https://github.com/gabrpavel/BSUIR/tree/main/term2#lab-3-bmp-image-editor)**
