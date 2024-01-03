@@ -4,9 +4,9 @@
 3. **[lab 3 (One-dimensional arrays)]()**
 4. **[lab 4 (Multidimensional arrays)]()**
 5. **[lab 5 (Dynamic memory allocation)]()**
-6. **[lab 6 ()]()**
-7. **[lab 7 ()]()**
-8. **[lab 8 ()]()**
+6. **[lab 6 (Sorting)]()**
+7. **[lab 7 (String handling)]()**
+8. **[lab 8 (String handling)]()**
 
 ## lab 1 (C program structure, I/O functions)
 ### Tasks:
@@ -30,17 +30,26 @@
 ### Tasks:
 - An integer rectangular matrix is given. Determine the number of columns containing at least one zero element; the number of the row containing the longest series of identical elements.
 - Check if there is at least one row in the matrix containing an element equal to zero and find its number. Reduce all matrix elements by the value of the first element of the found row.
-![](sources/SonarCloud.png)
+  
+![](https://github.com/gabrpavel/BSUIR/blob/cb1d6abc2c7203f0d64dc58c40ffb9db191fb5e6/term1/sources/lab4_task3.png)
 - In a square matrix of size NxN find the minimum even element in the 3rd region.
 
 ## lab 5 (Dynamic memory allocation)
 ### Tasks:
-
-## lab 6 ()
+- Fill the array with natural numbers from the keyboard. Remove all two-digit numbers from the array.
+- In a two-dimensional matrix of size NxM find the column with the largest sum of elements and remove it.
+- From a two-dimensional matrix of size NxM remove the elements below the side diagonal.
+  
+## lab 6 (Sorting)
 ### Tasks:
+- sort positive elements in a one-dimensional array by merge method.
+- sort the columns of a matrix of size NxM by decreasing number of elements occurring more than once by the selection method.
 
-## lab 7 ()
-### Tasks:
+## lab 7 (String handling)
+### Tasks: it is necessary to create a Menu for the user to select task 1 or 2, the access to which should be realized through a pointer to a function.
+- Given a string. Replace the k-th and m-th words.
+- The strings S and S0 are given. Find the number of occurrences of string S0 in string S.
 
-## lab 8 ()
-### Tasks:
+## lab 8 (String handling)
+### Tasks: organize input of an array of strings via command line arguments (int main(int argc, char **argv){...}). After that, copy the strings from the command line into a dynamic array and sort it using the specified method.
+- Sort by Hoare method an array of strings by the number of words consisting of even number of characters.
