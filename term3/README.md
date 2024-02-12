@@ -9,8 +9,6 @@
 4. **[lab 4 (Template class)]()**
 5. **[lab 5 (Exception handling)]()**
 6. **[lab 6 (Template container)]()**
-7. **[lab 7 ()]()**
-8. **[lab 8 ()]()**
 
 ## lab 1 ()
 ### Task: 
@@ -63,14 +61,6 @@ virtual from 2 previous classes:
 - Implement the Algorithm class to work with Ring.
 
 **[CODE](labs/lab6)**
-
-## lab 7 ()
-### Task: 
-- Implement a function to create an array of structures.
-
-**[CODE](labs/lab7)**
-
-## lab 8 ()
 ### Task: 
 - Implement a function to create an array of structures.
 
