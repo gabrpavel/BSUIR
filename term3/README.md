@@ -3,7 +3,7 @@
 ## **[Course project](https://github.com/gabrpavel/MyTempo)**
 
 ## Labs:
-1. **[lab 1 ()]()**
+1. **[lab 1]()**
 2. **[lab 2 (Operators overloading)]()**
 3. **[lab 3 (Inheritance)]()**
 4. **[lab 4 (Template class)]()**
