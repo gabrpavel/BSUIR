@@ -3,12 +3,11 @@
 ## **[Course project](https://github.com/gabrpavel/MyTempo)**
 
 ## Labs:
-1. **[lab 1]()**
-2. **[lab 2 (Operators overloading)]()**
-3. **[lab 3 (Inheritance)]()**
-4. **[lab 4 (Template class)]()**
-5. **[lab 5 (Exception handling)]()**
-6. **[lab 6 (Template container)]()**
+1. **[lab 1](https://github.com/gabrpavel/BSUIR/tree/main/term3#lab-1-)**
+2. **[lab 2 (Operators overloading)](https://github.com/gabrpavel/BSUIR/tree/main/term3#lab-2-operators-overloading)**
+3. **[lab 3 (Inheritance)](https://github.com/gabrpavel/BSUIR/tree/main/term3#lab-3-inheritance)**
+4. **[lab 4 (Template class)](https://github.com/gabrpavel/BSUIR/tree/main/term3#lab-4-template-class)**
+5. **[lab 5 (Template container)](https://github.com/gabrpavel/BSUIR/tree/main/term3#lab-5-template-container)**
 
 ## lab 1 ()
 ### Task: 
