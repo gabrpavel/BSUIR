@@ -49,19 +49,9 @@ virtual from 2 previous classes:
 
 **[CODE](labs/lab4)**
 
-## lab 5 (Exception handling)
-### Task: 
-- Implement a function to create an array of structures.
-
-**[CODE](labs/lab5)**
-
-## lab 6 (Template container)
+## lab 5 (Template container)
 ### Task: 
 - Implement the template container Ring. Use a nested Iterator class.
 - Implement the Algorithm class to work with Ring.
 
 **[CODE](labs/lab6)**
-### Task: 
-- Implement a function to create an array of structures.
-
-**[CODE](labs/lab8)**
