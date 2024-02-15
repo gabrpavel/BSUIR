@@ -12,6 +12,8 @@
 7. **[lab 7](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab7)**
 8. **[lab 8](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab8)**
 
+---
+
 ## lab 1. Introduction to Linux/Unix and the programming environment. POSIX-compatible file system
 ### Task: 
 > Master efficient file manipulation in shell and ***mc***.<br>
