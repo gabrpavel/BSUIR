@@ -3,7 +3,7 @@
 ## **[Course project](https://github.com/gabrpavel/BSUIR/tree/c875cec851be8d9038b12b4e3021f9fdfb976884/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/course%20work)**
 
 ## Labs:
-1. **[lab 1](https://github.com/gabrpavel/BSUIR/tree/9f3129f04189a5d92798a86c7ade416e78da5872/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab1)**
+1. **[lab 1](https://github.com/gabrpavel/BSUIR/tree/93276cd9b4a686117206121e5021db653ba24717/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab1)**
 2. **[lab 2](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab2)**
 3. **[lab 3](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab3)**
 4. **[lab 4](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab4)**
@@ -33,7 +33,7 @@
 >
 > It is recommended to use `getopt(3)` or `gengetopt(1)` to handle options.<br>
 
-**[CODE](https://github.com/gabrpavel/BSUIR/tree/9f3129f04189a5d92798a86c7ade416e78da5872/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab1)**
+**[CODE](https://github.com/gabrpavel/BSUIR/tree/93276cd9b4a686117206121e5021db653ba24717/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab1)**
 
 ## lab 2 
 
