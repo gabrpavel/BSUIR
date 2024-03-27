@@ -3,7 +3,7 @@
 ## **[Course project](https://github.com/gabrpavel/BSUIR/tree/c875cec851be8d9038b12b4e3021f9fdfb976884/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/course%20work)**
 
 ## Labs:
-1. **[lab 1](https://github.com/gabrpavel/BSUIR/tree/34ca0c329743db3e2d4c79398cfcc6e49cf9dd74/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab1)**
+1. **[lab 1](https://github.com/gabrpavel/BSUIR/tree/main/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab1)**
 2. **[lab 2](https://github.com/gabrpavel/BSUIR/tree/416985da157cdd79e5dff45f995ae151aac3c308/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab2)**
 3. **[lab 3](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab3)**
 4. **[lab 4](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab4)**
