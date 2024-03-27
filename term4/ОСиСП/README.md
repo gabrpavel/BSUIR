@@ -4,7 +4,7 @@
 
 ## Labs:
 1. **[lab 1](https://github.com/gabrpavel/BSUIR/tree/93276cd9b4a686117206121e5021db653ba24717/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab1)**
-2. **[lab 2](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab2)**
+2. **[lab 2](term4/ОСиСП/labs/lab2)**
 3. **[lab 3](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab3)**
 4. **[lab 4](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab4)**
 5. **[lab 5](https://github.com/gabrpavel/BSUIR/tree/5b85104fb9b4c6dd0b85fc7e2d692863a9cca166/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab5)**
