@@ -1,6 +1,6 @@
 # Operating Systems and System Programming
 
-## **[Course project](https://github.com/gabrpavel/BSUIR/tree/main/term4/ОСиСП/course_work)**
+## **[Course project](https://github.com/gabrpavel/BSUIR/tree/main/term4/ОСиСП/course%20work)**
 
 ## Labs:
 1. **[lab 1](https://github.com/gabrpavel/BSUIR/tree/main/term4/ОСиСП/labs/lab1)**
