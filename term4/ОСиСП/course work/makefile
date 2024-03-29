@@ -2,7 +2,7 @@ CC = gcc
 CFLAGS = -std=c11 -Wall -Wextra -pedantic -Wpointer-to-int-cast -Wunused-variable
 .PHONY : clean
 
-all : client server
+all : server
 
 server: server.c server.h
 	$(CC) $(CFLAGS) server.c -o server
