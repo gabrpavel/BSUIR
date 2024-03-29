@@ -35,7 +35,7 @@
 >
 > It is recommended to use `getopt(3)` or `gengetopt(1)` to handle options.<br>
 
-**[CODE](https://github.com/gabrpavel/BSUIR/tree/9f3129f04189a5d92798a86c7ade416e78da5872/term4/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/labs/lab1)**
+**[CODE](https://github.com/gabrpavel/BSUIR/tree/main/term4/ОСиСП/labs/lab1)**
 
 ## lab 2. The concept of processes.
 ### Task:
