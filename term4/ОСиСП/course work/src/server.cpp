@@ -1,64 +1,78 @@
 #include "../include/server.h"
 
-void handle_client_request(int connfd, int data_port, const char* root_dir) {
+std::string root_directory;
+
+void run_server(int argc, char **argv) {
+
+    int listenfd, connfd, n;
+    pid_t childpid;
+    socklen_t clilen;
     char buf[MAXLINE];
-    int n;
+    struct sockaddr_in cliaddr, servaddr;
 
-    while ((n = recv(connfd, buf, MAXLINE, 0)) > 0) {
-        // Обработка запросов от клиента
-        handle_command(connfd, buf, data_port, root_dir);
-
-        if (n < 0)
-            cerr << "Read error" << endl;
+    if (argc !=3) {
+        std::cerr<<"Usage: ./server <port number> <root directory>"<<std::endl;
+        exit(1);
     }
 
-    if (n == 0)
-        cout << "Client closed connection" << endl;
-    else
-        cerr << "Error in receiving data from client" << endl;
+    if ((listenfd = socket (AF_INET, SOCK_STREAM, 0)) <0) {
+        std::cerr<<"Problem in creating the socket"<<std::endl;
+        exit(2);
+    }
 
-    close(connfd);
-}
+    root_directory = argv[2];
 
-void accept_client_connections(int listenfd, int data_port, const char* root_dir) {
-    struct sockaddr_in cliaddr;
-    socklen_t clilen;
-    int connfd;
+    servaddr.sin_family = AF_INET;
+    servaddr.sin_addr.s_addr = htonl(INADDR_ANY);
+    if(atoi(argv[1])<=1024){
+        std::cerr<<"Port number must be greater than 1024"<<std::endl;
+        exit(2);
+    }
+    servaddr.sin_port = htons(atoi(argv[1]));
 
-    while (true) {
+    bind (listenfd, (struct sockaddr *) &servaddr, sizeof(servaddr));
+
+    listen (listenfd, LISTENQ);
+
+    std::cout<<"Server running...waiting for connections."<<std::endl;
+
+    for ( ; ; ) {
+
         clilen = sizeof(cliaddr);
-        connfd = accept(listenfd, (struct sockaddr*)&cliaddr, &clilen);
-        if (connfd < 0) {
-            cerr << "Error in accepting connection" << endl;
-            continue;
-        }
+        connfd = accept (listenfd, (struct sockaddr *) &cliaddr, &clilen);
 
-        cout << "Received request..." << endl;
+        std::cout<<"Received request..."<<std::endl;
 
-        if (fork() == 0) {
-            close(listenfd);
-            handle_client_request(connfd, data_port, root_dir);
+        if ( (childpid = fork ()) == 0 ) {
+
+            std::cout<<"Child created for dealing with client requests"<<std::endl;
+
+            close (listenfd);
+            int data_port=1024;
+
+            while ( (n = recv(connfd, buf, MAXLINE,0)) > 0)  {
+                std::cout<<"String received from client: "<<buf;
+                if (strncmp("ls", buf, 2) == 0) {
+                    handle_ls_command(connfd);
+                } else if (strncmp("pwd", buf, 3) == 0) {
+                    handle_pwd_command(connfd);
+                } else if (strncmp("cd", buf, 2) == 0) {
+                    handle_cd_command(connfd, buf + 3);
+                } else if (strncmp("put", buf, 3) == 0) {
+                    handle_put_command(connfd, data_port, buf + 4);
+                } else if (strncmp("get", buf, 3) == 0) {
+                    handle_get_command(connfd, data_port, buf + 4);
+                } else {
+                    std::cout << "Invalid command received: " << buf << std::endl;
+                }
+            }
+
+            if (n < 0)
+                std::cout<<"Read error"<<std::endl;
+
             exit(0);
         }
         close(connfd);
     }
-}
-
-int main(int argc, char** argv) {
-    if (argc != 3) {
-        cerr << "Usage: " << argv[0] << " <port number> <root directory>" << endl;
-        exit(1);
-    }
-
-    // Основные настройки сервера
-    int listenfd = setup_server_socket(argv[1]);
-    int data_port = atoi(argv[1]) + 1;
-    const char* root_dir = argv[2];
-
-    cout << "Server running...waiting for connections." << endl;
-
-    // Принятие и обработка соединений от клиентов
-    accept_client_connections(listenfd, data_port, root_dir);
-
-    return 0;
+    close(listenfd);
 }
